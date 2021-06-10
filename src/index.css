@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.appContainer{
+  max-width: 800px !important;
+}
+.customHeader{
+  height: 20vh !important;
+}
+.customFooter{
+  height: 20vh !important;
+  bottom: 0 !important;
+}

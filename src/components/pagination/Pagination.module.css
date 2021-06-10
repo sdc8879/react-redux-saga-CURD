@@ -1,0 +1,19 @@
+.container{
+    background-color: rgb(186, 202, 186);
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.pageButton{
+    height: 40px;
+    width: 30px;
+    margin: 0.8rem;
+    background-color: aquamarine;
+    cursor: pointer;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
